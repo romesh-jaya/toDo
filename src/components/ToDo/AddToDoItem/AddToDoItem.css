@@ -1,0 +1,9 @@
+.input-style {
+    width: 100%;
+    height: 60px;
+    maxlength: 100;
+  }
+
+  .input-div-style {
+    margin: auto;
+  }

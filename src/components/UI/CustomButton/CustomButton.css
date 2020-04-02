@@ -1,0 +1,38 @@
+
+.custom-button {
+    font: inherit;
+    padding: 0.5rem 2rem;
+    color: white;
+    cursor: pointer;
+    margin: 5px;
+  }
+  
+  .custom-button:hover, .custom-button:active {
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.26);
+  }
+  
+  .custom-button:focus {
+    outline: none;
+  }
+
+  .button {
+    outline: none;
+    background: #4120ff;
+    border: 1px solid #4120ff;
+  }
+
+  .submit {
+    outline: none;
+    background: #ff2058;
+    border: 1px solid #ff2058;
+  }
+
+  .curved
+  {
+    border-radius: 5px;
+  }
+
+  .margined
+  {
+    margin: 0.5 5px rem 0 5px;
+  }

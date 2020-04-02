@@ -1,0 +1,36 @@
+* {
+  box-sizing: border-box;
+  font-family: 'Roboto', sans-serif;
+}
+
+
+html, body {
+  font-size: 1rem;
+  justify-content: center;
+  
+  margin: auto;
+  text-align: center;
+}
+
+input {
+  font-size: 1rem;
+}
+
+textarea {
+  resize: none;
+  font-size: 1rem!important;
+}
+
+@media screen and (min-width: 600px) {
+  body {
+    width: 80%;
+  }
+}
+
+.margin-b-20 {
+  margin-bottom: 20px;
+}
+
+.red-color {
+  color: red;
+}
